@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/910.05c8930e.chunk.js","mappings":"qKAEe,SAASA,IACpB,OACI,uBAAG,gBAEX,C","sources":["pages/loading/index.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nexport default function Loading(){\r\n    return(\r\n        <p>Loading Page</p>\r\n    );\r\n}"],"names":["Loading"],"sourceRoot":""}

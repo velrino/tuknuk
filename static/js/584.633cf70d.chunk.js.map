@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/584.633cf70d.chunk.js","mappings":"qKAEe,SAASA,IACpB,OACI,uBAAG,cAEX,C","sources":["pages/login/index.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nexport default function Login() {\r\n    return (\r\n        <p>Login Page</p>\r\n    );\r\n}"],"names":["Login"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkTukNuk=self.webpackChunkTukNuk||[]).push([[991],{991:function(u,n,e){e.r(n),e.d(n,{default:function(){return k}});e(791);var r=e(184);function k(){return(0,r.jsx)("p",{children:"Dashboard Page"})}}}]);
+//# sourceMappingURL=991.4d04b122.chunk.js.map

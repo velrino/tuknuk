@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/991.4d04b122.chunk.js","mappings":"qKAEe,SAASA,IACpB,OACI,uBAAG,kBAEX,C","sources":["pages/dashboard/index.tsx"],"sourcesContent":["import React from 'react';\r\n\r\nexport default function Dashboard() {\r\n    return (\r\n        <p>Dashboard Page</p>\r\n    );\r\n}"],"names":["Dashboard"],"sourceRoot":""}
