@@ -10,6 +10,14 @@ const SideBar = ({ menu }:any) => {
       theme="light"
       collapsedWidth={0}
       trigger={null}
+      width={200} 
+      style={{ 
+          overflow: 'auto',
+          height: '100vh',
+          position: 'fixed',
+          top: 32,
+          left: 0,
+      }}
     >
       {menu}
    </Layout.Sider>

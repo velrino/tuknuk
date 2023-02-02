@@ -27,7 +27,7 @@ function Main() {
             <NavBar menu={MenuCompomnent} />
             <Layout>
                 <SideBar menu={MenuCompomnent} />
-                <Layout.Content className="content">
+                <Layout.Content className="content" style={{ marginLeft: 200 }}>
                     <Outlet />
                 </Layout.Content>
             </Layout>
